@@ -1,0 +1,60 @@
+@charset "UTF-8";
+h2 {
+	color: #B874FF;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	border-width: medium;
+}
+
+h1 {
+	text-shadow: 2px 2px #CACACA;
+	color: #8400FF;
+	text-align: center;
+	font-size: 36px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+p {
+	margin-left: 30px;
+}
+
+.states {
+	font-style: italic;
+}
+#places {
+	margin-left: 20px;
+	color: #B874FF;
+	font-size: x-large;
+}
+body ul {
+	margin-left: 25px;
+}
+
+#nav ul li {
+	display: inline;
+	padding-right: 51px;
+	font-size: large;
+}
+
+#nav {
+	position: relative;
+	text-align: center;
+}
+img {
+	text-align: left;
+}
+.center {
+}
+a {
+	text-decoration: none;
+	color: #000000;
+	font-size: large;
+}
+a:hover {
+	color: #8400FF;
+}
+
+.center {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
